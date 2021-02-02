@@ -1,5 +1,3 @@
-# zadanie-po-markdown-i-git-textil24
-zadanie-po-markdown-i-git-textil24 created by GitHub Classroom
 <!-- Автор верстки: Журавский Матвей Антонович -->
 # О КАФЕДРЕ
 
